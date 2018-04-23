@@ -12,7 +12,7 @@ using System.Windows.Forms;
  * Created on: 13-04-2018
  * Created for: ICS3U Programming
  * Daily Assignment – Day #25 - Numbers Nested Loops
- * This program...
+ * This program outputs numbers and then adds a number on to them
 */
 
 namespace NumbersNestedLoopsTivaR
@@ -37,6 +37,10 @@ namespace NumbersNestedLoopsTivaR
             for (firstNumber = 0; firstNumber <= 10; firstNumber++)
             {
                 //Now to loop through the next number
+                for (secondNumber = 0; secondNumber <= 10; secondNumber++)
+                {
+                    this.lstNumbersOutput.Items.Add(firstNumber + "->" + secondNumber);
+                }
             }
         }
     }

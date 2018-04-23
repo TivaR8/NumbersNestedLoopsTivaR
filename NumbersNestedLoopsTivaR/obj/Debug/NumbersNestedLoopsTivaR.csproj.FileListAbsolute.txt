@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 3 (Decisions)\NumbersNestedLoopsTivaR\NumbersNestedLoopsTivaR\bin\Debug\NumbersNestedLoopsTivaR.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 3 (Decisions)\NumbersNestedLoopsTivaR\NumbersNestedLoopsTivaR\bin\Debug\NumbersNestedLoopsTivaR.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 3 (Decisions)\NumbersNestedLoopsTivaR\NumbersNestedLoopsTivaR\bin\Debug\NumbersNestedLoopsTivaR.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 3 (Decisions)\NumbersNestedLoopsTivaR\NumbersNestedLoopsTivaR\obj\Debug\NumbersNestedLoopsTivaR.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 3 (Decisions)\NumbersNestedLoopsTivaR\NumbersNestedLoopsTivaR\obj\Debug\NumbersNestedLoopsTivaR.frmNumbersNestedLoops.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 3 (Decisions)\NumbersNestedLoopsTivaR\NumbersNestedLoopsTivaR\obj\Debug\NumbersNestedLoopsTivaR.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 3 (Decisions)\NumbersNestedLoopsTivaR\NumbersNestedLoopsTivaR\obj\Debug\NumbersNestedLoopsTivaR.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 3 (Decisions)\NumbersNestedLoopsTivaR\NumbersNestedLoopsTivaR\obj\Debug\NumbersNestedLoopsTivaR.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 3 (Decisions)\NumbersNestedLoopsTivaR\NumbersNestedLoopsTivaR\obj\Debug\NumbersNestedLoopsTivaR.pdb
